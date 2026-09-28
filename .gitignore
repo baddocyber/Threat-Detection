@@ -1,0 +1,8 @@
+venv/
+env/
+__pycache__/
+*.pyc
+db.sqlite3
+.env
+# Dataset is too large for GitHub (>100MB) — download separately
+*.csv
